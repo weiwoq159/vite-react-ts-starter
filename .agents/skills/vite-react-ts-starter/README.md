@@ -311,5 +311,3 @@ yarn dev
 ## License
 
 MIT
-
-npx skills add weiwoq159/vite-react-ts-starter -a codex -g -y

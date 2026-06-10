@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "vite-react-ts-starter": {
+      "source": "weiwoq159/vite-react-ts-starter",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "3728e7032f7676e6bb2712f58c1bec650fa10b31c86529d85200d2898f8acea9"
+    }
+  }
+}
